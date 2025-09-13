@@ -1,0 +1,13 @@
+client_id,client_name,advisor,last_review_date,estimated_annual_revenue
+C001,Anil Sharma,Advisor A,2025-04-10,15000
+C002,Sita Koirala,Advisor B,2023-08-05,22000
+C003,Michael Johnson,Advisor A,2025-01-17,9000
+C004,Ram Prasad,Advisor C,2024-06-20,12000
+C005,Jaya Gurung,Advisor B,2024-11-30,5000
+C006,Sunita Lama,Advisor C,2022-12-01,18000
+C007,Rajesh Thapa,Advisor A,2025-07-05,25000
+C008,Tara Basnet,Advisor B,2024-09-10,8000
+C009,Bipin K.C.,Advisor C,2025-06-01,7000
+C010,Emily Davis,Advisor A,2023-11-15,30000
+C011,Suman Adhikari,Advisor B,2025-03-22,4000
+C012,Priya Sharma,Advisor C,2024-09-12,16000
